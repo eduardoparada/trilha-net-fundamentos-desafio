@@ -49,7 +49,7 @@ namespace trilha_net_fundamentos_desafio
                 // TODO: Remover a placa digitada da lista de veículos
                 // *IMPLEMENTE AQUI*
                 Console.WriteLine($"O veículo {placa.ToUpper()} foi removido e o preço total foi de: {valorTotal.ToString("C")}");
-                veiculos.Remove(Console.ReadLine());
+                veiculos.Remove(placa);
             }
             else
             {
