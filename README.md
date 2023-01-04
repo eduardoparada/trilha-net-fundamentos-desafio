@@ -1,3 +1,3 @@
 # trilha-net-fundamentos-desafio
 
-Desafio estacionamento - DIO.me.
+Desafio estacionamento - Pottencial .NET Developer - DIO.me
